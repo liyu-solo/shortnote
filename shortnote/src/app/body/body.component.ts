@@ -10,7 +10,7 @@ import { CommonModule } from '@angular/common';
   styleUrl: './body.component.css'
 })
 export class BodyComponent {
-  subject = 'Chemistry'
-  subject2 = 'Bio'
-  subjects = ["chemo","bio","math","phy","eng"]
+  
+  subjects = ["Chemistry","Biology","Math","Physics","English","History","Geography","Economics"]
+
 }
