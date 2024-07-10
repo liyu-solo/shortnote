@@ -12,5 +12,4 @@ import { CommonModule } from '@angular/common';
 export class BodyComponent {
   
   subjects = ["Chemistry","Biology","Math","Physics","English","History","Geography","Economics"]
-
 }
